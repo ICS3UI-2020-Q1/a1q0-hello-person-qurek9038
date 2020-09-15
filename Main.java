@@ -4,7 +4,6 @@ import java.util.Scanner;
  * @author Khazina
  */
 public class Main {
-
   /**
    * The method that is executed when you hit the run button.
    * @param args the command line arguments
@@ -39,10 +38,6 @@ public class Main {
 
     //Tell the user their approximate age
     System.out.println("You are " + age + " years old.");
-
-
-
-
     
   }
 }
